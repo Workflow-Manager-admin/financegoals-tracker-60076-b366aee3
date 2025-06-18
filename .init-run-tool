@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/financegoals-tracker-60076-b366aee3/financegoals_tracker"
+}
